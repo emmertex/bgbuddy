@@ -7,6 +7,9 @@ A fresh look at a simple score keeping app for iOS
 - Easy for handling small score changing, and large score changing games
 - Dice Roller and Score Keeper on a single screen
 
+## Install
+- https://testflight.apple.com/join/X5qiuCvK
+
 ## Features
 - Persistence
   - Everything is saved, don't lose your game settings if the app is quit!
