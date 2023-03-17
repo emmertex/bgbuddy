@@ -10,6 +10,9 @@ A fresh look at a simple score keeping app for iOS
 ## Install
 - https://testflight.apple.com/join/X5qiuCvK
 
+## Privacy Policy
+- https://github.com/emmertex/bgbuddy/blob/main/PRIVACY.md
+
 ## Features
 - Persistence
   - Everything is saved, don't lose your game settings if the app is quit!
