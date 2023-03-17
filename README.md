@@ -13,6 +13,9 @@ A fresh look at a simple score keeping app for iOS
 ## Privacy Policy
 - https://github.com/emmertex/bgbuddy/blob/main/PRIVACY.md
 
+## Support me, and the app
+- Ko-Fi https://ko-fi.com/ku7_tech
+
 ## Features
 - Persistence
   - Everything is saved, don't lose your game settings if the app is quit!
